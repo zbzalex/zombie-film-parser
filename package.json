@@ -1,0 +1,16 @@
+{
+  "name": "zombie-film-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^8.7.0",
+    "axios": "^0.26.0"
+  }
+}
